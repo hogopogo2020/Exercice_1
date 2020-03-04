@@ -2,5 +2,5 @@ Debug
 *.sln
 .vs
 *.vcxproj
-*.usesr
+*.user
 *.filters
