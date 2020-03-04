@@ -1,1 +1,4 @@
-texte
+Debug
+*.vcxproj
+*.filters
+*.user
